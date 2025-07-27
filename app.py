@@ -265,7 +265,7 @@ if page == "Home":
 
         <div class="card">
             <div class="card-header">
-            DermaEvolve
+            D E R M A E V O L V E
             </div>
             <div class="card-body">
             Your Skin, Our Expertise..! <br>
